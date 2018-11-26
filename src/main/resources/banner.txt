@@ -1,0 +1,20 @@
+                                                                         
+                   S$
+                 S$                 SS
+               S$                   SS
+            SS                      SS
+          SS                        SS
+        SS  SS    SSSSSSSSSSSSSSSSSSSSSSSSS
+     SSS    SS                      SS
+ SSS        SS                      ss
+            SS            SSS       SS
+            SS            SSS       SS
+            SS                      SS
+            SS                      SS
+            SS                      SS
+            SS                SSS   SS
+            SS                    SSSS
+                                         tony
+
+application.version: ${application.version}
+spring-boot: ${spring-boot.version}
